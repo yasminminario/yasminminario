@@ -10,7 +10,6 @@
 <div>
   <a href="https://www.linkedin.com/in/yasmin-minario">
     <img align="left" alt="Estatísticas do GitHub de Yasmin Minário" src="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true&cache_buster=987654321" />
-    .
     <br>
     <img src="https://github-readme-stats.yasminminario.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567" alt="Linguagens Mais Usadas da Yasmin Minário">
   </a>
