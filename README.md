@@ -9,5 +9,5 @@
 - ⚡ Curiosidade: gosto de colorir no meu tempo livre!
 
 <a href="https://github.com/yasminminario">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasminminario" alt="Estatísticas do GitHub de yaya">
+  <img src="https://github-readme-stats-r7r3p90jm-yasminminarios-projects.vercel.app/api?username=yasminminario" alt="Estatísticas do GitHub de yaya">
 </a>
