@@ -9,5 +9,6 @@
 - ⚡ Curiosidade: gosto de colorir no meu tempo livre!
 
 <a href="https://github.com/yasminminario">
+  .
   <img src="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&cache_buster=12345" alt="Estatísticas do GitHub de Yasmin Minário">
 </a>
