@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, Sou a Yasmin👋
 
-<!--
-**yasminminario/yasminminario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou estudando no Inteli, cursando Engenharia de Software.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo computação em nuvem e C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como me contatar: meu e-mail pessoal é yminario@gmail.com.
+
+- ⚡ Curiosidade: gosto de colorir no meu tempo livre!
+
+<a href="https://github.com/yasminminario">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasminminario" alt="Estatísticas do GitHub de yaya">
+</a>
