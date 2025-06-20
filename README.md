@@ -10,9 +10,13 @@
 
 
 <div>
-  <img align="left" href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario" alt="Estatísticas do GitHub de Yasmin Minário" src="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true&cache_buster=987654321"/>
-  <br>
-  <img href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api/top-langs/?username=yasminminario" src="https://github-readme-stats.yasminminario.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567" alt="Linguagens Mais Usadas da Yasmin Minário">
+  <a href="https://github.com/yasminminario">
+    <img align="left" alt="Estatísticas do GitHub de Yasmin Minário" src="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true&cache_buster=987654321"/>
+  </a>
+
+  <br/> <a href="https://github.com/yasminminario">
+    <img alt="Linguagens Mais Usadas da Yasmin Minário" src="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
