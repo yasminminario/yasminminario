@@ -7,12 +7,12 @@
 - 📫 Como me contatar: meu e-mail pessoal é yminario@gmail.com.
 
 - ⚡ Curiosidade: gosto de colorir no meu tempo livre!
+
+
 <div>
-  <a href="https://www.linkedin.com/in/yasmin-minario">
-    <img align="left" alt="Estatísticas do GitHub de Yasmin Minário" src="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true&cache_buster=987654321" />
-    <br>
-    <img src="https://github-readme-stats.yasminminario.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567" alt="Linguagens Mais Usadas da Yasmin Minário">
-  </a>
+  <img align="left" href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario" alt="Estatísticas do GitHub de Yasmin Minário" src="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true&cache_buster=987654321"/>
+  <br>
+  <img href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api/top-langs/?username=yasminminario" src="https://github-readme-stats.yasminminario.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567" alt="Linguagens Mais Usadas da Yasmin Minário">
 </div>
 
 <div style="display: inline_block"><br>
