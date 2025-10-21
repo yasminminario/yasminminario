@@ -11,7 +11,7 @@
 
 <div>
   <a href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true&cache_buster=987654321" target="_blank">
-    <img align="left" alt="Estatísticas do GitHub de Yasmin Minário" src="[https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true&cache_buster=987654321](https://github-readme-stats-nu-olive-34.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true)"/>
+    <img align="left" alt="Estatísticas do GitHub de Yasmin Minário" src="https://github-readme-stats-nu-olive-34.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true"/>
   </a>
 
   <br/> <a href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567" target="_blank">
