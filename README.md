@@ -15,7 +15,7 @@
   </a>
 
   <br/> <a href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567" target="_blank">
-    <img alt="Linguagens Mais Usadas da Yasmin Minário" src="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567"/>
+    <img alt="Linguagens Mais Usadas da Yasmin Minário" src="https://github-readme-stats-nu-olive-34.vercel.app/api/top-langs/?username=yasminminario&layout=compact"/>
   </a>
 </div>
 
