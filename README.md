@@ -10,11 +10,11 @@
 
 
 <div>
-  <a href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true&cache_buster=987654321" target="_blank">
+  <a href="https://github-readme-stats-nu-olive-34.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true" target="_blank">
     <img align="left" alt="Estatísticas do GitHub de Yasmin Minário" src="https://github-readme-stats-nu-olive-34.vercel.app/api?username=yasminminario&show_icons=true&hide_border=true"/>
   </a>
 
-  <br/> <a href="https://github-readme-stats-8f9fskfz1-yasminminarios-projects.vercel.app/api/top-langs/?username=yasminminario&layout=compact&cache_buster=1234567" target="_blank">
+  <br/> <a href="https://github-readme-stats-nu-olive-34.vercel.app/api/top-langs/?username=yasminminario&layout=compact" target="_blank">
     <img alt="Linguagens Mais Usadas da Yasmin Minário" src="https://github-readme-stats-nu-olive-34.vercel.app/api/top-langs/?username=yasminminario&layout=compact"/>
   </a>
 </div>
